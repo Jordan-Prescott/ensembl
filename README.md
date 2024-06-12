@@ -1,4 +1,4 @@
-#👋🏼 Welcome!!
+# 👋🏼 Welcome!!
 
 Store all your saved and shared content from all your socials in one place. Recipes, date night ideas, and travel plans no longer come from Google searches; they come from TikToks, Instagram posts, YouTube Shorts, and other socials.
 
